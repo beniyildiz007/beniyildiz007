@@ -1,5 +1,5 @@
 # Hi! Welcome to my github page. 👋
-![Berkan Nihat Yıldız's Profile Views Counter](https://komarev.com/ghpvc/?username=beniyildiz007&color=blue)
+![Berkan Nihat Yıldız's Profile Views Counter](https://komarev.com/ghpvc/?username=beniyildiz007&color=blueviolet)
 
 ![Berkan Nihat Yıldız's GitHub stats](https://github-readme-stats.vercel.app/api?username=beniyildiz007)
 
