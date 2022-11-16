@@ -39,15 +39,15 @@ Patika.dev & Kodluyoruz Marmara University Introductory Program - 2022 | [Patika
 
 [Google Play and App Academy Technology Entrepreneurship - [Google]](https://verified.cv/en/verify/10444305916112) - July 2022
 
-[CSS Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-8SDEXD3S/jpg) - May 2022
+[CSS Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-OGWUSIGN/jpg) - May 2022
 
-[JavaScript Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-0Q0GNBM6/png) - May 2022
+[JavaScript Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-K5CQVOGF/png) - May 2022
 
-[React + Redux Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-CI36MF51/jpg) - May 2022
+[React + Redux Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-GWSNPRM9/jpg) - May 2022
 
-[PHP Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-JCQWHBCV/jpg) - April 2022
+[PHP Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-DCDOLQZ0/jpg) - April 2022
 
-[HTML Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-PKRGBOJE/jpg) - March 2022
+[HTML Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-CIISC3UE/jpg) - March 2022
 
 
 
