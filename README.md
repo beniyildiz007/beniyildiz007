@@ -25,7 +25,7 @@ Patika.dev & Kodluyoruz Marmara University Introductory Program - 2022 | [Patika
 ## Certificates
 [Marmara University Starting Path to Software - [Patika.dev]](https://app.patika.dev/certificates/oZoXHu8) - November 2022
 
-[Python for Beginners - [SoloLearn]](https://www.sololearn.com/Certificate/CT-YQD6BV6D/png) - November 2022
+[Python for Beginners - [SoloLearn]](https://www.sololearn.com/certificates/CT-YTOV5BCB) - November 2022
 
 [Python Fundamentals - [Programming Hero]](https://app.programming-hero.com/certificates/PH13803) - November 2022
 
