@@ -1,9 +1,9 @@
 # Hi! Welcome to my github page. 👋
 ![Berkan Nihat Yıldız's Profile Views Counter](https://komarev.com/ghpvc/?username=beniyildiz007&color=blueviolet)
 
-![beniyildiz007's GitHub stats](https://github-readme-stats.vercel.app/api?username=beniyildiz007&count_private=true)
+![beniyildiz007's GitHub stats](https://github-readme-stats.vercel.app/api?username=beniyildiz007&count_private=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beniyildiz007&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beniyildiz007&langs_count=20&theme=radical)
 
 
 ## Graduation
