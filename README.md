@@ -23,6 +23,8 @@ Patika.dev & Kodluyoruz Internship Program - 2022 | [Patika.dev](https://www.pat
 Patika.dev & Kodluyoruz Marmara University Introductory Program - 2022 | [Patika.dev](https://www.patika.dev/tr) & [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/)
 
 ## Certificates
+[Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye - [Udemy]](https://www.udemy.com/certificate/UC-ba205ee3-743f-4e7d-8da8-37109aca282d/) - March 2023
+
 [Marmara University Starting Path to Software - [Patika.dev]](https://app.patika.dev/certificates/oZoXHu8) - November 2022
 
 [Python for Beginners - [SoloLearn]](https://www.sololearn.com/certificates/CT-YTOV5BCB) - November 2022
