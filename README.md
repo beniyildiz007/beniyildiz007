@@ -23,6 +23,8 @@ Patika.dev & Kodluyoruz Internship Program - 2022 | [Patika.dev](https://www.pat
 Patika.dev & Kodluyoruz Marmara University Introductory Program - 2022 | [Patika.dev](https://www.patika.dev/tr) & [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/)
 
 ## Certificates
+[C# ile DevExpress'de SQL Tabanlı Ticari Otomasyon - [Udemy]](https://www.udemy.com/certificate/UC-59cc6fe6-e80d-4652-b92f-23f06c5f56d2/) - March 2023
+
 [C# İle 25 Derste 25 Uygulamalı Proje - [Udemy]](https://www.udemy.com/certificate/UC-d59d6aea-182b-4d01-a870-f42ae75f972f/) - March 2023
 
 [Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye - [Udemy]](https://www.udemy.com/certificate/UC-ba205ee3-743f-4e7d-8da8-37109aca282d/) - March 2023
