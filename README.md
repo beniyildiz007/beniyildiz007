@@ -36,12 +36,6 @@ Patika.dev & Kodluyoruz Marmara University Introductory Program - 2022 | [Patika
 
 [Marmara University Starting Path to Software - [Patika.dev]](https://app.patika.dev/certificates/oZoXHu8) - November 2022
 
-[Python for Beginners - [SoloLearn]](https://www.sololearn.com/certificates/CT-YTOV5BCB) - November 2022
-
-[Python Fundamentals - [Programming Hero]](https://app.programming-hero.com/certificates/PH13803) - November 2022
-
-[Python Cerfitication Course - [Programming Hub]](https://programminghub.io/certificates) - November 2022 (Cerfiticate ID = 1667229689981)
-
 [Google Play and App Academy Game Arts Education - [Google]](https://verified.cv/en/verify/63253969403593) - July 2022
 
 [Google Play and App Academy Game Development With Unity - [Google]](https://verified.cv/en/verify/44216242429641) - July 2022
@@ -49,16 +43,6 @@ Patika.dev & Kodluyoruz Marmara University Introductory Program - 2022 | [Patika
 [Google Play and App Academy App Development With Flutter - [Google]](https://verified.cv/en/verify/70723554604721) - July 2022
 
 [Google Play and App Academy Technology Entrepreneurship - [Google]](https://verified.cv/en/verify/10444305916112) - July 2022
-
-[CSS Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-OGWUSIGN/jpg) - May 2022
-
-[JavaScript Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-K5CQVOGF/png) - May 2022
-
-[React + Redux Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-GWSNPRM9/jpg) - May 2022
-
-[PHP Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-DCDOLQZ0/jpg) - April 2022
-
-[HTML Course - [SoloLearn]](https://www.sololearn.com/Certificate/CT-CIISC3UE/jpg) - March 2022
 
 
 
