@@ -24,6 +24,10 @@ Patika.dev & Kodluyoruz Marmara University Introductory Program - 2022 | [Patika
 
 ## Certificates
 
+
+
+[MVC5 ile Sıfırdan Adım Adım Web Projesi Geliştirme  - [Udemy]](https://www.udemy.com/certificate/UC-e38598cd-02e9-481b-a0de-d7c61487bbe6/) - April 2023
+
 [Asp.Net ile Cv Sitesi ve Film & Dizi Yorum Sitesi Projeleri  - [Udemy]](https://www.udemy.com/certificate/UC-d70e2a2c-1cf8-4df8-afa4-63a6460d70c4/) - April 2023
 
 [ASP.NET Bootstrap ile SQL Tabanlı Web Projeleri Geliştirin  - [Udemy]](https://www.udemy.com/certificate/UC-c6717a9c-8954-4529-a369-ca7553c4e164/) - April 2023
